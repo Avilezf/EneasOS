@@ -115,7 +115,7 @@ _We are students of the Universidad del Norte, studying CS and this project is O
 * **Luis Llanos** - *Developer* - [avilezf](https://github.com/avilezf)
 * **Andrés Prieto** - *Manager* - [luquef](https://github.com/luquef)
 * **Joshua Angarita** - *Testing* - [ajoshua](https://github.com/ajoshua)
-* **Fulanito Detal** - *Docs* - [amstrong](#https://github.com/amstrong)
+* **Fulanito Detal** - *Docs* - [amstrong](https://github.com/amstrong)
 
 
 ## License 
