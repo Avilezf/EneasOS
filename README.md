@@ -126,5 +126,5 @@ This project is made by using the library of Circle. This is an academic project
 
 * Fabricio Puche and Samir Pérez for the infomation about Circle Library
 * My Father and Mother to give me support any time I need it
-* Jaime to give us the oportunity to experiment in this field
+* Pefro Wightman to give us the oportunity to experiment in this field
 
